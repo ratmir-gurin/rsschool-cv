@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://ratmir-gurin.github.io/rsschool-cv/cv
